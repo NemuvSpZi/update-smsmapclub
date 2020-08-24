@@ -1,4 +1,5 @@
 # Mapclub Update v2
+Kode Negara : 8** ,   Jalan : python2 main.py
 
 
 # Tentang Author , Dan Pesan Dari Saya
