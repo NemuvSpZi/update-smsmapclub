@@ -1,5 +1,3 @@
-# silakan di recode :)
-
 #coding=utf-8
 
 import os,sys,requests,time
